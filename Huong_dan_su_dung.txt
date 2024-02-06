@@ -1,0 +1,34 @@
+HƯỚNG DẪN SỬ DỤNG CODE
+
+1. Yêu cầu cần có: Phần mềm lập trình Python hoặc Visual Studio Code có cài đặt môi trường lập trình python. 
+
+2. File mã nguồn gồm 3 file: matrix.py, my_math.py, main.py.
+- matrix.py: file ADT ma trận
+- my_math.py: File thuật toán ma trận.
+- main.py: Nơi thực thi chương trình.
+
+
+3. Input: File B.txt, C.txt, D.txt, E.txt, E1.txt, F.txt chứa data ma trận và người dùng có thể tự tạo thêm các file input dạng filename.txt.
+
+Lưu ý: Chương trình code có thể kiểm tra được dạng đúng của ma trận. Tuy nhiên, người dùng có thể tham khảo:
+- Cách nhập file ma trận đúng: Các phần tử trong ma trận cách nhau một dấu cách trắng.
+- Cách nhập ma trận đúng từ bàn phím: Nhập theo dạng của ma trận, mỗi phần tử cách nhau một khoảng trắng.
+
+Ví dụ ma trận 3x3 như sau: 
+1 2 3
+4 5 6
+7 8 9
+
+4. Output: File matrix.out 
+- File được tạo tự động trong quá trình thực hiện chạy code ở file main.py.
+- Kết quả được ghi liên tiếp vào file trong quá trình thực hiện. 
+- Người dùng mở xem file bằng notepad hoặc Visual Studio Code. Ưu tiên sử dụng Visual Studio Code để xem nhanh kết quả. 
+- Sau khi hết một đợt thực hiện chương trình, người dùng có thể xóa file nếu không muốn giữ dữ liệu trong file quá nhiều.
+
+
+5. Cách sử dụng: 
+- Người dùng tải xuống các file mã nguồn, file input vào chung 1 folder.
+- Mở file main.py và thực hiện chạy chương trình
+- Trong quá trình sử dụng, các bước đều được thông báo chi tiết. Người dùng thực hiện theo chỉ dẫn hiển thị ở console. 
+- Kết quả ở file matrix.out( Riêng phần nhập ma trận, và đọc ma trận từ file thì kết quả ma trận được in ra trực tiếp ở console)
+
